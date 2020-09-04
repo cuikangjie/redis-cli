@@ -24,7 +24,7 @@
         "taffydb": "^2.7.3",
         "webpack": "^4.41.2",
         "webpack-node-externals": "^1.7.2",
-        "yargs-parser": "^16.1.0"
+        "yargs-parser": "^18.1.2"
     },
     "scripts": {
         "dev:pool": "node scripts/run.js --mode=development --package=pool",
